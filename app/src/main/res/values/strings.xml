@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeaApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="lbDescription">Status</string>
+    <string name="lbWindSpeed">Wind Speed</string>
+    <string name="lbTemp">Temperature</string>
+    <string name="lbLongtitude">Longtitude</string>
+    <string name="lbLatitude">Latitude</string>
+</resources>
